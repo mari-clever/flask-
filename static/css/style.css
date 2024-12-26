@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Anton&family=Badeen+Display&family=Dancing+Script:wght@400..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Karla:ital,wght@0,200..800;1,200..800&family=Lobster&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Vinyl&display=swap');
+#l1,#fo{
+    font-family: "Afacad Flux", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    
+}
+
+#l1{
+    font-size: 20px;
+}
+
+
+#nc{
+    background-color: rgb(112, 141, 53);
+    animation: alternate;
+}
+
+
+#l1,#f2,#f5{
+    font-family: "Afacad Flux", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+}
+
+#l1:hover{
+    color:green;
+    font-size: 30px;
+    transition: 0.2s;
+}
+
+#f1{
+    box-shadow: 1px 3px 5px 2px;
+    border-radius: 10px;
+    width: 400px;
+    padding-top: 10px;
+}
+
+
+#f1:hover{
+    padding: 20px;
+    transition: 0.3s;
+}
+
+#nli{
+    justify-content: space-around;
+}
+#ic{
+    justify-content: space-around;
+}
+
+#tbl1{
+    box-shadow: 2px 5px 10px 1px;
+    border-radius: 20px;
+    width: 100%;
+    padding-top: 10px;
+}
+
+
+
+
+/*table error*/
+  /* Error message styling */
+  .error {
+    font-size: 0.875rem; /* Slightly smaller text */
+    color: #dc3545; /* Red color to indicate error */
+    margin-top: 5px; /* Small space above the error message */
+    display: block; /* Ensure error messages are on a new line */
+  }
+
+  /* Optional: Style for input fields with errors */
+  .form-control.is-invalid {
+    border-color: #dc3545; /* Red border for invalid inputs */
+  }
+  
+
+
+  
+
